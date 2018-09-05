@@ -6,13 +6,10 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+# 카카오톡 챗봇 만들기 응용편
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+### 1. 기존 채팅을 응용하여 새로이 생성하기
+### - 모듈 설치 
+        `sudo pip3 install flask`
+        `sudo pip3 install bs4`
+        ``
